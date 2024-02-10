@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <h1 align="center">🔥🤟🥶🤟🔥</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaw05&label=Profile%20views&color=0e75b6&style=flat" alt="aryaw05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryaw05" alt="aryaw05" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, Sass, TailwindCss**
 
