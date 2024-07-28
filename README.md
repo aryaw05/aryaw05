@@ -4,9 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJS, Sass, TailwindCss**
-
-- 📝 I regularly write articles on [https://medium.com/@aryawahyuaw77](https://medium.com/@aryawahyuaw77)
+- 🌱 I’m currently learning **ReactJS, Node JS, Express JS**
 
 - 💬 Ask me about **ReactJS**
 
