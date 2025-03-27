@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arya Wahyu</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<h1 align="center">🔥🤟🥶🤟🔥</h1>
 
 
-
-- 🌱 I’m currently learning **ReactJS, Node JS, Express JS**
-
-- 💬 Ask me about **ReactJS**
+- 🌱 I’m currently learning **ReactJS, Node JS, NextJS**
 
 - 📫 How to reach me **aryawahyuaw77@gmail.com**
 
